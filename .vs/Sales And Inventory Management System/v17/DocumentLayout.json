@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ace\\source\\repos\\Sales \u0026 Inventory Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7C8592-C52B-498D-B8F2-0472196CE43B}|Sales \u0026 Inventory Management System\\Sales And Inventory Management System.vbproj|c:\\users\\ace\\source\\repos\\sales \u0026 inventory management system\\sales \u0026 inventory management system\\connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0B7C8592-C52B-498D-B8F2-0472196CE43B}|Sales \u0026 Inventory Management System\\Sales And Inventory Management System.vbproj|solutionrelative:sales \u0026 inventory management system\\connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7C8592-C52B-498D-B8F2-0472196CE43B}|Sales \u0026 Inventory Management System\\Sales And Inventory Management System.vbproj|C:\\Users\\Ace\\source\\repos\\Sales \u0026 Inventory Management System\\sales \u0026 inventory management system\\employee\\frm_maincashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0B7C8592-C52B-498D-B8F2-0472196CE43B}|Sales \u0026 Inventory Management System\\Sales And Inventory Management System.vbproj|solutionrelative:sales \u0026 inventory management system\\employee\\frm_maincashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7C8592-C52B-498D-B8F2-0472196CE43B}|Sales \u0026 Inventory Management System\\Sales And Inventory Management System.vbproj|C:\\Users\\Ace\\source\\repos\\Sales \u0026 Inventory Management System\\sales \u0026 inventory management system\\admin\\frm_mainadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0B7C8592-C52B-498D-B8F2-0472196CE43B}|Sales \u0026 Inventory Management System\\Sales And Inventory Management System.vbproj|solutionrelative:sales \u0026 inventory management system\\admin\\frm_mainadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7C8592-C52B-498D-B8F2-0472196CE43B}|Sales \u0026 Inventory Management System\\Sales And Inventory Management System.vbproj|C:\\Users\\Ace\\source\\repos\\Sales \u0026 Inventory Management System\\sales \u0026 inventory management system\\frm_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0B7C8592-C52B-498D-B8F2-0472196CE43B}|Sales \u0026 Inventory Management System\\Sales And Inventory Management System.vbproj|solutionrelative:sales \u0026 inventory management system\\frm_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7C8592-C52B-498D-B8F2-0472196CE43B}|Sales \u0026 Inventory Management System\\Sales And Inventory Management System.vbproj|C:\\Users\\Ace\\source\\repos\\Sales \u0026 Inventory Management System\\sales \u0026 inventory management system\\loginconfirm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0B7C8592-C52B-498D-B8F2-0472196CE43B}|Sales \u0026 Inventory Management System\\Sales And Inventory Management System.vbproj|solutionrelative:sales \u0026 inventory management system\\loginconfirm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7C8592-C52B-498D-B8F2-0472196CE43B}|Sales \u0026 Inventory Management System\\Sales And Inventory Management System.vbproj|C:\\Users\\Ace\\source\\repos\\Sales \u0026 Inventory Management System\\sales \u0026 inventory management system\\loginconfirm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0B7C8592-C52B-498D-B8F2-0472196CE43B}|Sales \u0026 Inventory Management System\\Sales And Inventory Management System.vbproj|solutionrelative:sales \u0026 inventory management system\\loginconfirm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "connection.vb",
+              "DocumentMoniker": "C:\\Users\\Ace\\source\\repos\\Sales \u0026 Inventory Management System\\Sales \u0026 Inventory Management System\\connection.vb",
+              "RelativeDocumentMoniker": "Sales \u0026 Inventory Management System\\connection.vb",
+              "ToolTip": "C:\\Users\\Ace\\source\\repos\\Sales \u0026 Inventory Management System\\Sales \u0026 Inventory Management System\\connection.vb",
+              "RelativeToolTip": "Sales \u0026 Inventory Management System\\connection.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-06T12:21:03.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "loginconfirm.vb",
+              "DocumentMoniker": "C:\\Users\\Ace\\source\\repos\\Sales \u0026 Inventory Management System\\Sales \u0026 Inventory Management System\\loginconfirm.vb",
+              "RelativeDocumentMoniker": "Sales \u0026 Inventory Management System\\loginconfirm.vb",
+              "ToolTip": "C:\\Users\\Ace\\source\\repos\\Sales \u0026 Inventory Management System\\Sales \u0026 Inventory Management System\\loginconfirm.vb",
+              "RelativeToolTip": "Sales \u0026 Inventory Management System\\loginconfirm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-01T06:33:18.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "loginconfirm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Ace\\source\\repos\\Sales \u0026 Inventory Management System\\Sales \u0026 Inventory Management System\\loginconfirm.vb",
+              "RelativeDocumentMoniker": "Sales \u0026 Inventory Management System\\loginconfirm.vb",
+              "ToolTip": "C:\\Users\\Ace\\source\\repos\\Sales \u0026 Inventory Management System\\Sales \u0026 Inventory Management System\\loginconfirm.vb [Design]",
+              "RelativeToolTip": "Sales \u0026 Inventory Management System\\loginconfirm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-01T06:28:14.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_mainCashier.vb",
+              "DocumentMoniker": "C:\\Users\\Ace\\source\\repos\\Sales \u0026 Inventory Management System\\Sales \u0026 Inventory Management System\\EMPLOYEE\\frm_mainCashier.vb",
+              "RelativeDocumentMoniker": "Sales \u0026 Inventory Management System\\EMPLOYEE\\frm_mainCashier.vb",
+              "ToolTip": "C:\\Users\\Ace\\source\\repos\\Sales \u0026 Inventory Management System\\Sales \u0026 Inventory Management System\\EMPLOYEE\\frm_mainCashier.vb",
+              "RelativeToolTip": "Sales \u0026 Inventory Management System\\EMPLOYEE\\frm_mainCashier.vb",
+              "ViewState": "AQIAADkFAAAAAAAAAAAiwFgFAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-06T12:21:01.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_login.vb",
+              "DocumentMoniker": "C:\\Users\\Ace\\source\\repos\\Sales \u0026 Inventory Management System\\Sales \u0026 Inventory Management System\\frm_login.vb",
+              "RelativeDocumentMoniker": "Sales \u0026 Inventory Management System\\frm_login.vb",
+              "ToolTip": "C:\\Users\\Ace\\source\\repos\\Sales \u0026 Inventory Management System\\Sales \u0026 Inventory Management System\\frm_login.vb",
+              "RelativeToolTip": "Sales \u0026 Inventory Management System\\frm_login.vb",
+              "ViewState": "AQIAAFACAAAAAAAAAAAUwG4CAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T16:14:11.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_mainAdmin.vb",
+              "DocumentMoniker": "C:\\Users\\Ace\\source\\repos\\Sales \u0026 Inventory Management System\\Sales \u0026 Inventory Management System\\ADMIN\\frm_mainAdmin.vb",
+              "RelativeDocumentMoniker": "Sales \u0026 Inventory Management System\\ADMIN\\frm_mainAdmin.vb",
+              "ToolTip": "C:\\Users\\Ace\\source\\repos\\Sales \u0026 Inventory Management System\\Sales \u0026 Inventory Management System\\ADMIN\\frm_mainAdmin.vb",
+              "RelativeToolTip": "Sales \u0026 Inventory Management System\\ADMIN\\frm_mainAdmin.vb",
+              "ViewState": "AQIAAHIHAAAAAAAAAAAUwJAHAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-06T12:20:53.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
